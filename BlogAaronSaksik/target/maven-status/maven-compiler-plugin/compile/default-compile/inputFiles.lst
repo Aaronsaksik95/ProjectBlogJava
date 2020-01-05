@@ -1,0 +1,10 @@
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/model/Admin.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/dao/DAOFactory.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/aaron/servlet/Index.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/aaron/servlet/addArticle.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/aaron/Bootstrap.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/model/Article.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/model/User.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/dao/article/DAOArticle.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/dao/article/DAOArticleImpl.java
+/Users/aaronsaksik/eclipse-workspace/BlogAaronSaksik/src/main/java/ynov/dao/MySQLManager.java
