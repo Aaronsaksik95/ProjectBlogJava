@@ -10,4 +10,4 @@ Le projet se presente:
   -Un dossier avec les différentes captures d'écran du Blog, afin de s'assurer du resultat.
   
 
-Je tien, quand même, à le préciser: ce projet a été fait sur un mac. Je ne pense pas qu'il y ait une différence, mais nous sommes jamais trop prudent. 
+
